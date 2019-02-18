@@ -5,7 +5,7 @@
 const char* ssid     = "ornxviii"; //change this to your SSID
 const char* password = "09061998"; //change this to your PASSWORD
 
-const char* host = "https://malii.herokuapp.com/bot.php";//change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
+const char* host = "https://malii.herokuapp.com/bot.php"; //change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
 #define APPID   "1643049076"     //change this to your APPID
 #define KEY     "W1QIiPq7srpgato3zUmMna26Z37yja97/RMPi6aDJC6AZ/w6xzBJmwzvz+PgWbHQek+CQY5u1qZBDV72hLwITp7hna1dwENAIYV9+AoUlnkhFHIdv0FLY/6VOlkojTtKxxip6m0EAaWaTNsquAOp4QdB04t89/1O/w1cDnyilFU="     //change this to your KEY
 #define SECRET  "32e7d3828b0e875d369d6da38b790040"     //change this to your SECRET
