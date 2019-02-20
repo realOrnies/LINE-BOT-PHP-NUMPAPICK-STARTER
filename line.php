@@ -2,6 +2,7 @@
   
 
 function send_LINE($msg){
+ echo "kaolaew\n";
  $access_token = 'WpU/RYEmb0k4QQy2982hTuTIIP8+s9OZWzwf0Q4wBwt51Aa60D4oT6I4guFi27+0ek+CQY5u1qZBDV72hLwITp7hna1dwENAIYV9+AoUlnm8b3yj5s8R1AU66dw6Ui2Cqg0WsheZessppVVh4mQwzwdB04t89/1O/w1cDnyilFU='; 
 
   $messages = [
